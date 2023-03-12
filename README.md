@@ -1,6 +1,9 @@
 # Student-java-project
 # 학생 성적 프로그램
 ▶학생의 기본 정보를 입력하여, DataBase와 연동해 관리하는 프로젝트
+### 개발 기간
+2023-03-02(Thursday) ~ 2023-03-03(Friday)
+
 ## 개발 환경
 | Category | Content |
 | --- | --- |
@@ -9,9 +12,7 @@
 | Editor | Eclipse IDE 2022-06 (4.24.0) |
 | DBMS | MySQL Workbench 8.0.17 |
 | Github | [https://github.com/Seojonghyuk/Student-java-project] |
-# 개발 기간
-2023-03-02(Thursday) ~ 2023-03-03(Friday)
-# 적용기술 및 구현기능
+# 적용기술
 ### 적용 기술
 <img src="https://img.shields.io/badge/-Java-orange">
 <img src="https://img.shields.io/badge/-MySql-blue">
